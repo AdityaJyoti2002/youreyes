@@ -1,0 +1,231 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="26.0.5">
+  <diagram name="Page-1" id="UBp7ci9zlrysTo-bzg_1">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Departmental Applications" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="8" y="405" width="1118" height="607" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Departmental Applications" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+          <mxGeometry x="438" y="46" width="250" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Application Integration" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="2">
+          <mxGeometry x="193" y="175" width="219" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Departmental Email System" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="2">
+          <mxGeometry x="48" y="503" width="228" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Departmental Document Management System" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="2">
+          <mxGeometry x="327" y="491" width="230" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Application Security" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="2">
+          <mxGeometry x="734" y="185" width="198" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Departmental Firewall" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="2">
+          <mxGeometry x="607" y="503" width="191" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Departmental Application Updates" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="2">
+          <mxGeometry x="848" y="491" width="230" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=0.99;entryX=0.5;entryY=0;" edge="1" parent="2" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="302" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="2" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="163" y="442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="2" source="4" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="442" y="442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=0.99;entryX=0.5;entryY=0;" edge="1" parent="2" source="3" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="833" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="Firewall" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="2" source="7" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="702" y="442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="Regular Updates" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="2" source="7" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="963" y="442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="Departmental Users" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1176" y="304" width="716" height="809" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Departmental Users" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="16">
+          <mxGeometry x="326" y="46" width="202" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Departmental Portal Access" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="16">
+          <mxGeometry x="182" y="211" width="227" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="User Authentication" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="16">
+          <mxGeometry x="198" y="400" width="196" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="Departmental Login System" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="16">
+          <mxGeometry x="43" y="705" width="227" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Departmental Biometric System" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="16">
+          <mxGeometry x="320" y="693" width="230" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="User Roles" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="16">
+          <mxGeometry x="502" y="175" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="Departmental Access Control" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="16">
+          <mxGeometry x="451" y="459" width="230" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=0.99;entryX=0.5;entryY=0.01;" edge="1" parent="16" source="17" target="18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="296" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;" edge="1" parent="16" source="18" target="19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="Login Credentials" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="16" source="19" target="20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="156" y="644" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="Biometrics" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="16" source="19" target="21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="644" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=0.99;entryX=0.5;entryY=0;" edge="1" parent="16" source="17" target="22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" value="Permissions" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;" edge="1" parent="16" source="22" target="23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" value="Departmental Information System" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1942" y="8" width="590" height="1401" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="Departmental Information System" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="30">
+          <mxGeometry x="186" y="46" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="Departmental Data Collection" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="30">
+          <mxGeometry x="201" y="199" width="230" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="Departmental Data Analysis" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="30">
+          <mxGeometry x="202" y="352" width="227" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="Departmental Data Storage" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="30">
+          <mxGeometry x="203" y="481" width="225" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="35" value="Data Security" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="30">
+          <mxGeometry x="241" y="610" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="Departmental Database" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="30">
+          <mxGeometry x="58" y="857" width="199" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="37" value="Departmental Server" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="30">
+          <mxGeometry x="346" y="857" width="179" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="Departmental Data Backup" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="30">
+          <mxGeometry x="79" y="1071" width="222" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="Server Monitoring" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="30">
+          <mxGeometry x="355" y="1008" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="Departmental Disaster Recovery" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="30">
+          <mxGeometry x="75" y="1286" width="230" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="30" source="31" target="32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="30" source="32" target="33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="30" source="33" target="34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;" edge="1" parent="30" source="34" target="35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="45" value="Encrypted Storage" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0;" edge="1" parent="30" source="35" target="36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="158" y="808" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46" value="Access Control" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="30" source="35" target="37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="808" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47" value="Redundancy" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.47;entryY=0.01;" edge="1" parent="30" source="36" target="38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="158" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.61;entryY=0.01;" edge="1" parent="30" source="37" target="38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="30" source="37" target="39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="50" value="Regular Testing" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;" edge="1" parent="30" source="38" target="40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
